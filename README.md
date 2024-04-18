@@ -1,5 +1,7 @@
 # Lighthouse Labs | React Developer Workflow
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-react-developer-workflow/tree/2024.04.18-web-immersive-national-4march2024) | [Vimeo Video Recording](https://vimeo.com/936417082/8a632877c0?share=copy)
+
 * [X] Creating React Applications
 * [X] Limitations of React
 * [X] Planning a Project
