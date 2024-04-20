@@ -5,7 +5,42 @@
 * [X] Creating React Applications
 * [X] Limitations of React
 * [X] Planning a Project
-* [ ] Working Through an Example!
+* [X] Working Through an Example!
+
+## How to run this Example
+
+```sh
+# Navigate to your user directory
+cd ~
+
+# Navigate to your projects directory
+cd lighthouse-labs
+
+# Clone this project to your computer
+git clone https://github.com/WarrenUhrich/lighthouse-labs-react-developer-workflow.git
+
+# Enter the project directory
+cd lighthouse-labs-react-developer-workflow
+
+# Switch to this branch
+git checkout 2024.04.18-web-immersive-national-4march2024
+
+# Enter the React project directory
+cd my-react-app
+
+# *Ensure you're using Node version 14 or greater (nvm use 14)
+# Install any necessary dependencies
+npm install
+
+# Run the project
+npm run start
+```
+
+Once these steps are complete you should be able to view the application at: [http://localhost:3000/](http://localhost:3000/)
+
+The application is organized into:
+* `/my-react-app/src/components/ToDos`
+* `/my-react-app/src/styles/ToDos`
 
 ## React
 
